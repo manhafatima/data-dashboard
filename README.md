@@ -36,4 +36,4 @@ The purpose of this project is to help users quickly understand weather patterns
 
 ## 📸 GIF Walkthrough
 
-(Add your project GIF or screenshot here)
+[App Walkthrough](https://canva.link/rbwa6a4yu91dp5z)
